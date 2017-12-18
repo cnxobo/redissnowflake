@@ -37,3 +37,6 @@ Example:
 If you require multiple such server/services in the same region, change the worker_id value.
 
 If you require multiple such server/services in different regions, change the region_id value.
+
+Get a ID
+`redis-cli snowflake.getid`
